@@ -3,6 +3,7 @@ repo for machine learning projects and excersise
 
 ### Projects:
 
-* Behaviour context in the wild
-* Artificial Nerual Network
+* Simple Neural Network for exploring IRIS dataset.
+* Behaviour context in the wild.
+* Artificial Nerual Network.
  
